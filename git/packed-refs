@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+cf0e62d649b49a505d24cdbb81398020360d33d2 refs/remotes/origin/Dodik-Dot-patch-1
+715545be34aa7c691b855eb6c6fb4ef09bb3b515 refs/remotes/origin/Dodik-Dot-patch-2
+90dc35ca68579698fe6e30bb8a354ea3930f3de7 refs/remotes/origin/Dodik-Dot-patch-3
+471908ab53c063040da6da212f0afc0565aef874 refs/remotes/origin/Dodik-Dot-patch-4
+2e338fb127e0aebc3f3714b3299290403b9c1036 refs/remotes/origin/main
+779fa3ee2572a1b2eaeb41035c7854bc793bf411 refs/tags/v1.3.3
